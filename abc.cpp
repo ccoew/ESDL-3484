@@ -6,4 +6,5 @@ int main()
   cout<<"good morning..!";
   cout<<"hii..!!";
   cout<<"ok";
+  cout<<"addition=a+b";
 }
